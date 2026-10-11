@@ -1,0 +1,27 @@
+# Secrets
+.env
+
+# Runtime data
+docs/*
+!docs/.gitkeep
+data/*
+!data/.gitkeep
+backend/offline_demo_data/
+eval/golden.json
+eval/results/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+
+# Node
+node_modules/
+frontend/dist/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+.claude/settings.local.json

@@ -1,0 +1,13 @@
+[
+  {
+    "question": "What was the company's total revenue in 2023?",
+    "filename": "annual_report_2023.pdf",
+    "pages": [12],
+    "answer_contains": ["$4.2 billion"]
+  },
+  {
+    "question": "Which risks does the report list for supply chains?",
+    "filename": "annual_report_2023.pdf",
+    "pages": [27, 28]
+  }
+]
